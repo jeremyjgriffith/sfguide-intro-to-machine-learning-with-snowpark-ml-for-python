@@ -2,9 +2,9 @@
     "account"   : "",
     "user"      : "",
     "password"  : "",
-    "role"      : "",
-    "warehouse" : "",
-    "database"  : "",
-    "schema"    : ""
+    "role"      : "ACCOUNTADMIN",
+    "warehouse" : "ML_HOL_WH",
+    "database"  : "ML_HOL_DB",
+    "schema"    : "ML_HOL_SCHEMA"
   }
   
